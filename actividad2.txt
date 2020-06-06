@@ -1,5 +1,6 @@
 Esto es un fichero de texto de prueba para realizar la actividad 2 del tema de Integración continua del Master de DevOps.
 
+Versión modificada v0.1
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
